@@ -7,6 +7,7 @@ Jean-Noel Herlin Archive Project
 Platform: Jekyll
 
 Pages: Markdown entries on a single page, additional 'card' pages with image zoom. 
+
 	* Card #IDs
 
 Display: Mobile / desktop views. 
