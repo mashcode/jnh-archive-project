@@ -31,6 +31,10 @@
     <section class="home posts">
   <h1>Blog Posts</h1>
   
+    <article><time>17 Mar 2015</time> &raquo; <a href="/art/digital/french/2015/03/17/sample-card-2.html">card title 2</a></article>
+  
+    <article><time>17 Mar 2015</time> &raquo; <a href="/art/politics/2015/03/17/sample-card.html">card title</a></article>
+  
     <article><time>16 Mar 2015</time> &raquo; <a href="/jekyll/update/2015/03/16/welcome-to-jekyll.html">Welcome to Jekyll!</a></article>
   
     <article><time>16 Mar 2015</time> &raquo; <a href="/jekyll/update/2015/03/16/yo-jekyllrb.html">Yo Jekyll!</a></article>
