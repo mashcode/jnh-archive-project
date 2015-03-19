@@ -48,7 +48,7 @@
 <!-- build:js(app) /js/script.js -->
 <script src="/js/plugins.js"></script>
 <script src="/js/main.js"></script>
-<script src="/_bower_components/bootstrap-sass-official/assets/javascripts/bootstrap.min.js"></script>
+<script src="/_bower_components/bootstrap-sass-official/assets/javascripts/bootstrap.js"></script>
 <!-- endbuild -->
 
     <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
