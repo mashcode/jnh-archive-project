@@ -31,17 +31,13 @@
     <section class="home posts">
   <h1>Blog Posts</h1>
   
-    <article><time>23 Mar 2015</time> &raquo; <a href="/art/language/2015/03/23/Art-Language.html">Art & Language</a></article>
+    <article><time>23 Mar 2015</time> &raquo; <a href="/card/2015/03/23/Art-Language.html">Art & Language</a></article>
   
-    <article><time>23 Mar 2015</time> &raquo; <a href="/art/politics/american/2015/03/23/ACT-UP-auction-for-action.html">ACT UP</a></article>
+    <article><time>23 Mar 2015</time> &raquo; <a href="/card/2015/03/23/ACT-UP-auction-for-action.html">ACT UP</a></article>
   
-    <article><time>17 Mar 2015</time> &raquo; <a href="/art/politics/american/2015/03/17/sample-card-2.html">Title 2</a></article>
+    <article><time>17 Mar 2015</time> &raquo; <a href="/card/2015/03/17/sample-card-2.html">ACT UP</a></article>
   
-    <article><time>17 Mar 2015</time> &raquo; <a href="/art/politics/2015/03/17/sample-card.html">Title 1</a></article>
-  
-    <article><time>16 Mar 2015</time> &raquo; <a href="/jekyll/update/2015/03/16/welcome-to-jekyll.html">Welcome to Jekyll!</a></article>
-  
-    <article><time>16 Mar 2015</time> &raquo; <a href="/jekyll/update/2015/03/16/yo-jekyllrb.html">Yo Jekyll!</a></article>
+    <article><time>17 Mar 2015</time> &raquo; <a href="/postcard/2015/03/17/sample-card.html">Art & Language</a></article>
   
 </section>
 
