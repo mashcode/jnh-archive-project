@@ -121,9 +121,9 @@
         <div class="col-md-3 cat">
             <div class="list-group">
                 
-                    <a class="list-group-item" href="card">card</a>
+                    <a class="list-group-item" href="/card">card</a>
                 
-                    <a class="list-group-item" href="postcard">postcard</a>
+                    <a class="list-group-item" href="/postcard">postcard</a>
                 
             </div>
         </div>
@@ -144,7 +144,7 @@
   
 </section>
 
-        
+
         </div>
     </div>
 </section>
